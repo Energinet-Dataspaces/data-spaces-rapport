@@ -11,7 +11,7 @@ export function Newsletter() {
           </p>
         </div>
         <div className="mt-8 lg:mt-0 lg:ml-8">
-          <form className="sm:flex" method="post">
+          <form className="sm:flex" name="newsletter" method="post">
             <input type="hidden" name="form-name" value="newsletter" />
             <label htmlFor="email-address" className="sr-only">
               Email adresse
@@ -28,7 +28,7 @@ export function Newsletter() {
             <div className="mt-3 rounded-md shadow sm:mt-0 sm:ml-3 sm:flex-shrink-0">
               <button
                 type="submit"
-                className="flex w-full items-center justify-center rounded-md border border-transparent bg-teal-600 px-5 py-3 text-base font-medium text-white hover:bg-indigo-600 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 focus:ring-offset-gray-800"
+                className="flex w-full items-center justify-center rounded-md border border-transparent bg-teal-600 px-5 py-3 text-base font-medium text-white hover:bg-teal-500 focus:outline-none focus:ring-2 focus:ring-teal-800 focus:ring-offset-2 focus:ring-offset-gray-800"
               >
                 Tilmeld!
               </button>
