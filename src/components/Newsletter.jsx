@@ -11,7 +11,8 @@ export function Newsletter() {
           </p>
         </div>
         <div className="mt-8 lg:mt-0 lg:ml-8">
-          <form className="sm:flex" data-netlify="true">
+          <form className="sm:flex" method="post">
+            <input type="hidden" name="form-name" value="newsletter" />
             <label htmlFor="email-address" className="sr-only">
               Email adresse
             </label>
