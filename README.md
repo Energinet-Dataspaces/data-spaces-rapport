@@ -1,38 +1,34 @@
-# Syntax
+# Rapport Alexandra Instittutet / Energinet
 
-Syntax is a [Tailwind UI](https://tailwindui.com) site template built using [Tailwind CSS](https://tailwindcss.com) and [Next.js](https://nextjs.org).
+Dette repository understøtter et simpelt website for en rapport om data spaces skrevet af Alexandra Instituttet, støttet af Energinet.
 
-## Getting started
+## Hvis du vil bygge videre
 
-To get started with this template, first install the npm dependencies:
+Først skal du hente det nødvendige:
 
 ```bash
 npm install
 cp .env.example .env.local
 ```
 
-Next, run the development server:
+..og så starte udviklingsserveren:
 
 ```bash
 npm run dev
 ```
 
-Finally, open [http://localhost:3000](http://localhost:3000) in your browser to view the website.
+Så kan du åbne [http://localhost:3000](http://localhost:3000) i din browser for at se ændringer direkte.
 
-## Customizing
+## Ændringer
 
-You can start editing this template by modifying the files in the `/src` folder. The site will auto-update as you edit these files.
+Du redigerer websitet ved at gå til `/src` mappen. Når du i er udvikling, så burde sitet opdatere automatisk i din browser.
 
-## License
+## Teknologier
 
-This site template is a commercial product and is licensed under the [Tailwind UI license](https://tailwindui.com/license).
+Hvis du vil vide mere om teknologierne bag, så se her:
 
-## Learn more
-
-To learn more about the technologies used in this site template, see the following resources:
-
-- [Tailwind CSS](https://tailwindcss.com/docs) - the official Tailwind CSS documentation
-- [Next.js](https://nextjs.org/docs) - the official Next.js documentation
-- [Headless UI](https://headlessui.dev) - the official Headless UI documentation
-- [Markdoc](https://markdoc.io) - the official Markdoc documentation
-- [DocSearch](https://docsearch.algolia.com) - the official DocSearch documentation
+- [Tailwind CSS](https://tailwindcss.com/docs)
+- [Next.js](https://nextjs.org/docs)
+- [Headless UI](https://headlessui.dev)
+- [Markdoc](https://markdoc.io)
+- [DocSearch](https://docsearch.algolia.com)
