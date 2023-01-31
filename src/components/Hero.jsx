@@ -32,7 +32,7 @@ export function Hero() {
               </p>
               <div className="mt-8 flex gap-4 md:justify-center lg:justify-start">
                 <Button href="/intro">Gå til "Introduktion"</Button>
-                <Button href="https://alexandra.dk/download-viden/" variant="secondary">
+                <Button href="https://alexandra.dk/wp-content/uploads/2023/01/Data_Spaces_kortlaegning_aktoerer_initiativer.pdf" variant="secondary">
                   Hent rapport som PDF
                 </Button>
               </div>
