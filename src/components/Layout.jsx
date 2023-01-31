@@ -10,6 +10,7 @@ import { Navigation } from '@/components/Navigation'
 import { Prose } from '@/components/Prose'
 import { Search } from '@/components/Search'
 import { ThemeSelector } from '@/components/ThemeSelector'
+import { Newsletter } from '@/components/Newsletter'
 
 const navigation = [
   {
@@ -189,7 +190,7 @@ export function Layout({ children, title, tableOfContents }) {
   return (
     <>
       <Header navigation={navigation} />
-
+      {!isHomePage && <Newsletter />}
       {isHomePage && <Hero />}
 
       <div className="relative mx-auto flex max-w-8xl justify-center sm:px-2 lg:px-8 xl:px-12">
@@ -308,7 +309,9 @@ export function Layout({ children, title, tableOfContents }) {
             )}
           </nav>
         </div>
+
       </div>
+
     </>
   )
 }
