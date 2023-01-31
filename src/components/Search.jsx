@@ -34,6 +34,8 @@ export function Search() {
     setIsOpen(false)
   }, [setIsOpen])
 
+
+
   useDocSearchKeyboardEvents({ isOpen, onOpen, onClose })
 
   useEffect(() => {

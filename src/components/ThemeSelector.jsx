@@ -3,8 +3,8 @@ import { Listbox } from '@headlessui/react'
 import clsx from 'clsx'
 
 const themes = [
-  { name: 'Light', value: 'light', icon: LightIcon },
-  { name: 'Dark', value: 'dark', icon: DarkIcon },
+  { name: 'Lys', value: 'light', icon: LightIcon },
+  { name: 'Mørk', value: 'dark', icon: DarkIcon },
   { name: 'System', value: 'system', icon: SystemIcon },
 ]
 
