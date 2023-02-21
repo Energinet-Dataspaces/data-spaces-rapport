@@ -1,71 +1,56 @@
 ---
-title: Temporal paradoxes
-description: Quidem magni aut exercitationem maxime rerum eos.
+title: Data spaces-dagsordenen i en dansk kontekst
+description: Data spaces-dagsordenen i en dansk kontekst
 ---
 
-Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo expedita ipsum nostrum corrupti incidunt. Et aut eligendi ea perferendis.
+Gennem kortlægningsarbejdet til denne rapport er det blevet klart, at Danmark ikke er specielt synlig i data spaces-dagsordenen. Vi er kun med i ét af de store EU-projekter, og der er ikke rigtig nogen, der er aktive medlemmer hos ledende aktører som f.eks. IDSA og GAIA-X. Sideløbende, er det dog også blevet klart, at mange af de internationale interviewpersoner har ytret stor interesse i at få danske aktører med i projekter, fordi Danmark er langt fremme på digitalisering, og vi har meget data tilgængelig og på et relativt struktureret niveau. Netop derfor vil det give rigtig god mening at teste data spaces i en dansk kontekst.
 
----
+**Det er vores vurdering, at data spaces er et godt bud på næste trin i Danmarks arbejde med digitalisering, datadeling og dataøkonomi. Data spaces-dagsordenens fokus på datasuverænitet, tillid og transparens understøtter i høj grad allerede eksisterende danske værdier i forhold til datadeling og sikring af privatlivets ret og vil derfor passe godt ind i arbejdet med øget datadeling og værdiskabelse gennem data.**
 
-## Quis vel iste dicta
+Der er så småt flere danske aktører, der begynder at udvise interesse for området. Den forhenværende regerings [Digitaliseringsstrategi](https://kefm.dk/Media/637873349127660462/danmarks-digitaliseringsstrategi-sammen-om-den-digitale-udvikling_web.pdf) (maj 2022) nævner data spaces som et fokusområde og indeholdt yderligere et initiativ om at afsætte ekstra midler til at hjælpe danske aktører til at komme med i europæiske konsortier og søge EU-støttemidler. [Erhvervsstyrelsen](https://erhvervsstyrelsen.dk/digital-europe-programmet) har i den forbindelse afholdt en del arrangementer om Digital Europe-programmet og data spaces og har vejledt virksomheder, der ønsker at deltage i udarbejdelsen af data spaces. Erhvervsstyrelsen har desuden været i dialog med en række aktører om oprettelsen af et Gaia-X Hub DK, hvilket ville gøre det lettere for virksomheder at deltage mere aktivt i det arbejde, man laver i Gaia-X. Det er også Erhvervsstyrelsen, der hidtil har forhandlet Data Act i EU, men grundet den nye regeringsdannelse er det endnu ikke besluttet, hvor disse opgaver vil ligge fremover.
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+Også som et produkt af digitaliseringsstrategien er der i Energistyrelsen tegnet planer for opstart af et [Forsyningsdigitaliseringsprogram](https://ens.dk/presse/nyt-forsyningsdigitaliseringsprogram-skal-bidrage-til-en-groen-digital-og-integreret). Her følges data spaces-dagsordenen tæt for at se, hvordan denne bedst kan realiseres i en dansk kontekst.
 
-### Et pariatur ab quas
+Sundhedsdatastyrelsen deltager i to projekter i European Health Data Space. Det ene er et projekt om primær brug af data til patientbehandling, som handler om, at man på europæisk plan skal kunne dele 'patient summaries and e-prescriptions' på tværs af EU-landene, så sundhedsprofessionelle i andre lande kan tilgå dine sundhedsoplysninger, hvis det bliver nødvendigt i forbindelse med en eventuel behandling i et andet EU-land. Her deltager Danmark ved at gøre vores systemer klar til at kunne dele disse oplysninger finansieret med tilskud fra EU-Kommissionen. Det andet projekt er [European Health Data Space-pilotprojekt](https://sundhedsdatastyrelsen.dk/da/strategier-og-projekter/europeanhealthdataspace) (EHDS2 pilotprojektet), som handler om sekundær brug af data, fortrinsvist til forskning og innovation. Her er Sundhedsdatastyrelsen med i et større konsortium bestående af 14 lande og flere centrale EU-aktører som European Medicines Agency (EMA) og European Centre for Disease Prevention and Control (ECDC).
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Projektet har til formål af skabe erfaringer og afklare en række forskellige forhold omkring European Health Data Space, f.eks. hvad skal en national node kunne, hvordan kan man lave en infrastruktur, governance m.v. Derudover ønsker man at teste disse løsninger gennem fem use-cases, hvoraf Danmark deltager i fire. Projektet skal komme med anbefalinger til, hvordan et europæisk data space skal struktureres og bygges. Sundhedsdatastyrelsen har desuden tidligere medvirket i et forberedende EU-projekt, TEHDAS (Towards European Health Data Space).
 
-```js
-/** @type {import('@tailwindlabs/lorem').ipsum} */
-export default {
-  lorem: 'ipsum',
-  dolor: ['sit', 'amet', 'consectetur'],
-  adipiscing: {
-    elit: true,
-  },
-}
-```
+Vi har desuden haft dialog med Styrelsen for Dataforsyning og Infrastruktur (SDFI) og Digitaliseringsstyrelsen, som er nogle af de styrelser, der varetager meget af arbejdet med at dele offentligt tilgængelige data, og som hjælper med at finde vej til data. SDFI forvalter [Dataforsyningen](https://dataforsyningen.dk/), der giver direkte adgang til geografiske data via kortvisning, webservices, webapplikationer, API'er og download. Det er denne platform, som SDFI mener kan danne grundlag for et evt. videre arbejde med data spaces.
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+I Digitaliseringsstyrelsen er man i samarbejde med Erhvervsstyrelsen i gang med at bygge [Datavejviseren](https://digst.dk/data/datavejviser/), som er et katalog over offentligt tilgængelige data. Formålet med Datavejviseren er at gøre det enklere for virksomheder, forskere, myndigheder og civilsamfundet at finde frem til tilgængelige offentlige data. Her henvises bl.a. til Dataforsyningen men også til relevante datadistributører som Danmarks Miljøportal og Statistikbanken. Digitaliseringsstyrelsen ser Datavejviser-indsatsen og den tilhørende tilvejebringelse af europæisk interoperable metadata som et væsentligt bidrag til at sikre, at offentlige data kan indgå i data space-initiativer, og de følger vi med i allerede igangsatte og planlagte data space-initiativer i Danmark for at sikre sammenhæng og videndeling, hvor det er relevant.
 
-### Natus aspernatur iste
+På forskningsniveau er DTU Compute aktive i arbejdet med data spaces, som ledes af professor [Henrik Madsen](https://www.compute.dtu.dk/nyheder/nyhed?id=%7BC61BE7E8-2849-4177-A4C0-CFA12797DE3D%7D) og hvor særligt seniorforsker [Martin Brynskov](https://orbit.dtu.dk/en/persons/martin-brynskov) (tidligere lektor ved Aarhus Universitet, DitCom) er meget aktiv i arbejdet med interoperabilitet og data spaces. Aarhus Universitet, [Centre for Digital Transformation in Cities and Communities](https://ditcom.au.dk/) (DitCom) er med i et Horizon 2020-projekt om data spaces (se afsnit 5.1). Aarhus Universitet har desuden sammen med Alexandra Instituttet deltaget i flere pre-data space-projekter (f.eks. [SynchroniCity](https://cordis.europa.eu/project/id/732240), [OrganiCity](https://cordis.europa.eu/project/id/645198)), herunder FIWARE-bidrag, som har været med til at bane vejen for data spaces.
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Blandt GTS-institutterne har Alexandra Instituttet og FORCE Technology engageret sig i dagsordenen og bl.a. udgivet et whitepaper: [Data Spaces in Denmark](https://nordiciot.dk/data-spaces-in-denmark/). DHI medvirker i et vand-data space-projekt (se nedenfor). Hos DMI finder man data space-dagsordenen meget relevant, fordi meteorologisk data allerede er et af de steder, hvor data deles i store mængder på tværs af EU-lande og mere internationalt.
 
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+De nationale klynger er også begyndt at vise interesse for området. Innovationsalliancen Water Valley Denmark har sammen med Aarhus Universitet, Aalborg Universitet, DTU, DHI, Aarhus Vand, Danmarks Miljøportal og Systematic fået finansiering (gennem EU RE-ACT-programmet) til de indledende undersøgelser, samarbejder og udvikling af et prototypedesign for et [Data Space Water](https://watervalleydenmark.com/data-space-water/). DigitalLead (den digitale klynge) følger dagsordenen tæt og udviser interesse i at være med i oprettelsen af et Gaia-X DK Lab. DigitalLead vil i samarbejde med Alexandra Instituttet og Energy Cluster Denmark afholde en række arrangementer om data spaces i 2023.
 
----
+Også blandt brancheorganisationerne har vi oplevet stor interesse. DI Digital er som nævnt partner i IDSA og er meget interesseret i at være med til at drive data spaces-dagsordenen frem blandt deres medlemsvirksomheder og politisk, og IDA (ingeniørforeningen) har ytret stor interesse i arbejdet.
 
-## Quos porro ut molestiae
+Green Power Denmark (tidl. Dansk Energi) har i samarbejde med Energinet afholdt flere events og lavet et [Dialogoplæg: Etablering af et Data Space for energi og forsyning](https://www.danskenergi.dk/files/media/document/Dialogopl%C3%A6g-Data-Space-Energinet-Dansk-Energi-nov2021.pdf) (nov. 2021) samt indsamlet en lang række use-cases, som man kunne forestille sig mobiliseret gennem øget datadeling og data spaces.
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+Energinet (bidragsydere til rapporten her) arbejder aktivt på at fremme data spaces. Særligt i deres arbejde med [Datahubben](https://energinet.dk/energidata/datahub/hvad-er-datahub/), hvor al data om energiforbrug og energiproduktion samles, og en lang række datasæt er tilgængelige, og i[ElOverblik](https://eloverblik.dk/welcome), hvor energiforbrugere kan få adgang til egen forbrugsdata og give samtykke til, at tredjeparter kan få adgang til deres data til specifikke formål. Tilsammen er de to platforme vigtige elementer i at få skabt et data space for energisektoren, men der er brug for at få aktiveret mange flere aktører, så data fra Datahubben kan blive taget i brug til mange nye og innovative services, og så Datahubbens data lettere kan blive samkørt med andre datakilder.
 
-### Voluptatem quas possimus
+Dette er en af grundene til, at Energinet sammen med EWII og KMD er strategisk partner i [Center Denmark](https://www.centerdenmark.com/en/) og deres [Digital Energy Hub](https://www.digitalenergyhub.com/da/). Center Denmark er en non-profit og uafhængig virksomhed, som er initieret af bl.a. DTU, EWII og Energinet. Formålet med Center Denmark er at skabe en platform for deling af energidata, der giver energisystemet adgang til forsyningsdata samt forbrugsdata fra borgerne, industrien og f.eks. rensningsanlæg. Dette skal give energifleksibilitet til implementering af fremtidens vejrdrevne energisystem. Center Denmark kan derfor ses om en af de centrale aktører i skabelsen af et [energi-data space i Danmark](https://www.compute.dtu.dk/nyheder/nyhed?id=%7BC61BE7E8-2849-4177-A4C0-CFA12797DE3D%7D). Det skal dog nævnes, at Center Denmarks teknologiske komponenter ikke bygger direkte på de data space-byggeklodser, som endnu er under udvikling, men at Center Denmark kigger mod det vigtige arbejde, der sker i EU lige nu.
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Digital Energy Hub (DEH) er et projekt støttet af Industriens Fond og med aktiv deltagelse fra klyngerne DigitalLead og Energy Cluster Denmark. Formålet med DEH er at skabe et innovationsfællesskab, herunder kontorfællesskab, innovationssprints og workshops, hvor man bringer SMVer fra energibranchen sammen med digitale virksomheder, for at få dem til at anvende data på innovative måder og derigennem løse nogle af de store udfordringer, som udpeges af DEH's strategiske partnere. En af de udfordringer, der kigges ind i for 2023, er netop data spaces. Er man interesseret i at deltage i dette arbejde, er man velkommen til at kontakte Flemming Pors Knudsen fra Digital Energy Hub.
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+KMD er strategisk partner i DEH, og KMD – som for nylig blev opkøbt af japanske NEC – siger, at data spaces er et af de 5 teknologiske tendenser, som de vil satse på i de kommende år. Ud over KMD og Systematic, som er med i Data Space Water-projektet, er vi i kortlægningen ikke stødt på andre virksomheder, der arbejder aktivt med data spaces.
 
-### Id vitae minima
+## Bliv engageret i data space-dagsordenen
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Synes man, at data spaces-dagsordenen lyder spændende, er der flere niveauer at engagere sig på.
 
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+Som nævnt er størstedelen af det arbejde, der foregår hos de store europæiske organisationer, stadig på et relativt konceptuelt plan. Man er i gang med at beskrive de overordnede linjer og spilleregler omkring compliance, referencearkitektur samt de overordnede byggeklodser, der skal til, og der arbejdes på governance-strukturen, og hvordan de forskellige aktører og roller i et data space skal kunne interagere med hinanden.
 
----
+**Gennem kortlægningen er det blevet klart, at det er vigtigt, at danske aktører – særligt på det politiske plan og i standardiseringsarbejdet ­– melder sig mere aktivt på banen for at deltage i arbejdet med de overordnede retningslinjer, da dette arbejde højest sandsynligt vil få stor betydning for, hvordan vi kan og skal dele data i fremtiden.**
 
-## Vitae laborum maiores
+Fordi vi i Danmark allerede er meget digitaliserede og har meget data samt systemer til at dele data, kunne det blive problematisk, hvis de retningslinjer, der bliver lavet i EU, kommer til at betyde, at vi skal ændre meget på vores eksisterende datainfrastrukturer. Ønsker man at følge og eventuelt blive en del af dette arbejde, anbefaler vi, at man melder sig ind i disse organisationer og deltager i de arbejdsgrupper og udviklerfællesskaber, som de fleste af dem har tilknyttet. Som sagt kan man ikke melde sig ind i Gaia-X Associationen, hvis ikke der findes en national hub, og det er derfor relevant, at der bliver oprettet en national Gaia-X Hub DK, da dette vil give mere direkte adgang til projektdeltagelse. Er man interesseret i arbejdet med at oprette et Gaia-X DK, kan vi anbefale at man kontakter DigitalLead (se kontakt nedenfor). Man kan dog godt melde sig ind i [Gaia-X Community](https://gaia-x.eu/membership/how-to-join/) uden en national hub.
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+Det meste af den konkrete kode og de teknologiske komponenter bliver udviklet i de specifikke EU-projekter og andre innovationsprojekter. Er man interesseret i at deltage i denne type projekter, er vejen ind også at blive medlem af nogle af de større organisationer, da de giver adgang til prominente netværk og er med til at facilitere konsortier til søgning af EU-midler.
 
-### Corporis exercitationem
+Erhvervsstyrelsen har som nævnt været ansvarlig for at informere om og hjælpe virksomheder med at blive partnere i konsortier til Digital Europe-programmet (se afsnit 3.3). Der har i oktober 2022 været et informationsmøde om udviklingen af data spaces til 'smart communities' med mulighed for deltagelse i pilotprojekter i 2023/2024 indenfor [Digital Europe](https://digital-strategy.ec.europa.eu/en/events/info-day-deployment-data-space-smart-communities). Lignende informationsmøder vil blive annonceret på de ovenstående aktørers hjemmesider, og det er derfor en fordel at holde sig opdateret her.
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Desuden kan man gennem [Living-in.EU's hjemmeside](https://living-in.eu/) finde andre interesserede samarbejdspartnere samt udfylde en interessetilkendegivelse for kommende projekter. Som nævnt i kapitel 5 er det vores oplevelse, at en del af de eksisterende EU-projekter er interesseret i at få danske samarbejdspartnere og use-cases, fordi vi i har et virkelig godt datagrundlag, og man kunne derfor tage direkte kontakt til projektlederne fra igangværende projekter.
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-### Reprehenderit magni
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+Vi håber, at denne rapport har givet et godt indblik i data spaces-dagsordenen og -udviklingen i EU, og at rapporten kan fungere som grundlag for, at flere danske aktører vil engagere sig i data spaces. Vi opfordrer alle, der er nysgerrige efter at følge denne dagsorden, til at følge [Alexandra Instituttets nyhedsbrev](https://alexandra.dk/nyhedsbrev/) eller følge os på [LinkedIn](https://www.linkedin.com/company/alexandrainstituttet/mycompany/), da vi i 2023 vil organisere flere events om emnet. Man er også meget velkommen til at tage direkte kontakt til forfatterne af denne rapport.

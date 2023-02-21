@@ -1,71 +1,45 @@
 ---
-title: Temporal paradoxes
-description: Quidem magni aut exercitationem maxime rerum eos.
+title: Tak til og kontakt
+description: Tak til og kontakt
 ---
 
-Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo expedita ipsum nostrum corrupti incidunt. Et aut eligendi ea perferendis.
+Vi vil gerne sige tak til de personer og organisationer, som har deltaget i interviews, bidraget med input og feedback til denne rapport, herunder:
 
----
+- Francesco Bonfiglio, Roland Fadrany og Pierre Gronlier, Gaia-X
+- Manuel Mateo Goyet, EU-Kommissionen DG Connect
+- Sebastian Steinbuss, ISDA
+- Joshua Gelhaar, Fraunhofer Institute
+- Antonello Monti, RWTH Aachen University
+- Massimo Bertoncini, Engineering Ingegneria Informatica Spa
+- Ulrich Ahle, FIWARE Foundation
+- Javier Valiño, ATOS
+- Fredrik Weiergang Larsen og Sophie Vasbo, Erhvervsstyrelsen
+- Sidsel Horsholt, Stig Kjeldsen, Helle Kirkedal og Thea Madsen, Energistyrelsen
+- Ulla Kronborg Mazzoli, Styrelsen for Dataforsyning og Infrastruktur
+- Martin Skovbjerg Jensen, Digitaliseringsstyrelsen
+- Lisbeth Nielsen og Anton Rivall Andersen, Sundhedsdatastyrelsen
+- Morten Taarup, DMI
+- Ulla Sparre,Water Valley Denmark
+- Carolina Benjaminsen og Birgit Pia Nøhr, DigitalLead
+- Morten Kristiansen, DI Digital
+- Mads Ockert Bonne, KMD
+- Thomas Due, IBM
+- Søren Skov Bording, Center Denmark
+- Martin Brynskov, Danmarks Tekniske Universitet
+- Henrik Madsen, Danmarks Tekniske Universitet
+- Adrienne Heijnen, Aarhus Universitet
+- Søren Djørup, Norce
 
-## Quis vel iste dicta
+## Kontakt
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+Hvis du har spørgsmål, er du velkommen til at kontakte:
 
-### Et pariatur ab quas
+### Alexandra Instituttet
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+Lea Schick Senior Research and Innovation Specialist Alexandra Instituttet
+[Lea.schick@alexandra.dk](mailto:Lea.schick@alexandra.dk)
 
-```js
-/** @type {import('@tailwindlabs/lorem').ipsum} */
-export default {
-  lorem: 'ipsum',
-  dolor: ['sit', 'amet', 'consectetur'],
-  adipiscing: {
-    elit: true,
-  },
-}
-```
+### Energinet
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-### Natus aspernatur iste
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
-
----
-
-## Quos porro ut molestiae
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
-
-### Voluptatem quas possimus
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-### Id vitae minima
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
-
----
-
-## Vitae laborum maiores
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
-
-### Corporis exercitationem
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-### Reprehenderit magni
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+Jakob Fauerskov Head of Data Service and Ecosystem Energinet
+[JFU@energinet.dk](mailto:JFU@energinet.dk)

@@ -1,71 +1,24 @@
 ---
-title: CacheAdvance.revert()
-description: Quidem magni aut exercitationem maxime rerum eos.
+title: Ikke data space specifikke komponenter
+description: Centrale aktører og teknologiske komponenter
 ---
 
-Quasi sapiente voluptates aut minima non doloribus similique quisquam. In quo expedita ipsum nostrum corrupti incidunt. Et aut eligendi ea perferendis.
+Der findes på nuværende tidspunkt ikke et færdigudviklet sæt komponenter til at etablere et data space. Men i rapporten [Simpl Handover Report](https://ec.europa.eu/newsroom/dae/redirection/document/86732) (se også afsnit 3.4.3), som er udviklet af Deloitte for EU-Kommissionen, er der flere figurer, som giver et godt overblik over de eksisterende open source-komponenter og platforme, som kan anvendes. De fleste af disse komponenter og platforme er dog ikke specifikt udviklet til data spaces men kan anvendes til at udfylde flere af de afgørende funktionaliteter, når et data space skal sættes i produktion.
 
----
+I rapporten listes en række af de software stacks (f.eks. EGI, OPenStack, VanillaStack, Linux, X-Road og Apache), hvor de vurderer, at der bliver udviklet flest relevante byggeklodser for data spaces. I følgende figur fra rapporten findes en oversigt over, hvilke udviklerplatforme der har udviklet løsninger, og indenfor hvilke af de tre overordnede kategorier (infrastruktur, data og administration) der skal udvikles for at sætte et data space i produktion.
 
-## Quis vel iste dicta
+![Figur 17](/figur17.png)
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
+_Figur 17: Produktdækning til SMP-byggeklodser. Hentet fra [Simpl Handover Report](https://ec.europa.eu/newsroom/dae/redirection/document/86732)._
 
-### Et pariatur ab quas
+Overordnet konkluderer rapporten, at der ikke er ét produkt, der kan dække alle betingelserne for SMP (smart middleware platform). Men produkterne har forskellige styrkepositioner og kan kombineres på forskellig vis. Rapporten opsummerer endvidere, hvor de enkelte komponenters styrker og svagheder er i forhold til udviklingen af data space-arkitekturen.
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
+I følgende gennemgang af aktører og komponenter lægger vi os op ad rapportens konklusioner. [EGI](https://www.egi.eu/) understøtter forskning, der kræver avanceret computing til dataanalyse på tværs af institutioner. De er lovende indenfor infrastruktur og datalag, men de er meget forskningsrettede.
 
-```js
-/** @type {import('@tailwindlabs/lorem').ipsum} */
-export default {
-  lorem: 'ipsum',
-  dolor: ['sit', 'amet', 'consectetur'],
-  adipiscing: {
-    elit: true,
-  },
-}
-```
+[OpenStack](https://www.openstack.org/) er et projekt under[OpenInfra Foundation](https://openinfra.dev/), som samler mange komponenter især til datacentre og cloud-operatører. Det kan bruges til udrulning af tjenester såsom Kubernetes, Cloud Foundry og Terraform. Der er stor aktivitet i denne gruppe og deres komponenter kan dække administration, men kan også integreres med EGI.
 
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
+[VanillaStack](https://vanillastack.io/this-is-vanillastack) er både en tysk virksomhed og et open source-projekt, som samler mere end 20 andre open source-projekter (herunder OpenStack, Kubernetes, Cloud Foundry, Elasticsearch, Grafana, Keycloak, Docker), hvilket gør det nemt at rulle ud, hvis man ønsker at bygge en cloud.
 
-### Natus aspernatur iste
+[Linux Foundation](https://www.linuxfoundation.org/) er en paraplyorganisation med flere underorganisationer såsom Cloud Native Computing Foundation, og har et stærkt community, som udvikler over 800 open source-projekter. Selvom de har mange projekter, er ulempen, at det er vanskeligt at integrere dem.
 
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
-
----
-
-## Quos porro ut molestiae
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
-
-### Voluptatem quas possimus
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-### Id vitae minima
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
-
----
-
-## Vitae laborum maiores
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur.
-
-### Corporis exercitationem
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Possimus saepe veritatis sint nobis et quam eos. Architecto consequatur odit perferendis fuga eveniet possimus rerum cumque. Ea deleniti voluptatum deserunt voluptatibus ut non iste. Provident nam asperiores vel laboriosam omnis ducimus enim nesciunt quaerat. Minus tempora cupiditate est quod.
-
-### Reprehenderit magni
-
-Sit commodi iste iure molestias qui amet voluptatem sed quaerat. Nostrum aut pariatur. Sint ipsa praesentium dolor error cumque velit tenetur quaerat exercitationem. Consequatur et cum atque mollitia qui quia necessitatibus.
-
-Voluptas beatae omnis omnis voluptas. Cum architecto ab sit ad eaque quas quia distinctio. Molestiae aperiam qui quis deleniti soluta quia qui. Dolores nostrum blanditiis libero optio id. Mollitia ad et asperiores quas saepe alias.
+Endelig er der [Apache Software Foundation](https://apache.org/), som er et community, der udvikler over 200 open source-projekter, hvor flere af dem er ekstremt populære, f.eks. Apache HTTP Server. I big data eller cloud-domæner, som er relevante til data spaces, kan f.eks. nævnes Kafka, Spark, Storm, Solr, Lucene og CloudStack. Ligesom med Linux er integration dog vanskelig.
