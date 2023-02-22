@@ -30,11 +30,6 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/hvad-er-data-spaces/formaalet-og-visionen": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/hvad-er-data-spaces/formaalet-og-visionen.js"
-    ],
     "/intro": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",

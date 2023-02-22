@@ -3,6 +3,5 @@
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/": "pages/index.js",
-  "/intro": "pages/intro.js",
-  "/hvad-er-data-spaces/formaalet-og-visionen": "pages/hvad-er-data-spaces/formaalet-og-visionen.js"
+  "/intro": "pages/intro.js"
 }
