@@ -7,7 +7,7 @@ Data spaces kan forstås som et økosystem af dataøkosystemer, da en af de over
 
 Der findes naturligvis allerede mange mere eller mindre formaliserede dataøkosystemer, men det nye i data spaces er, at man – på tværs af offentlige myndigheder, private virksomheder og organisationer – ønsker at blive enige om fælles spilleregler, standarder, overordnede designprincipper, referencearkitektur, fælles arkitekturelementer (tekniske og organisatoriske byggeklodser) og en fælles vedtaget 'governance'-struktur, som man skal inkorporere og leve op til, hvis man vil tage del i data spaces.
 
-**Den bedste måde at forstå data spaces på er at tænke på dem som forbundne og interoperable dataøkosystemer, der opererer efter fælles spilleregler.**
+**En god måde at forstå data spaces på er at tænke på dem som forbundne og interoperable dataøkosystemer, der opererer efter fælles spilleregler.**
 
 ![Figur 1](/figur1.png)
 
