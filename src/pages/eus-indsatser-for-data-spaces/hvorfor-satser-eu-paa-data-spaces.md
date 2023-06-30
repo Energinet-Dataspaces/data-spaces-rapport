@@ -7,7 +7,6 @@ Arbejdet med data spaces er gennem de seneste par år blevet bakket op af EU-Kom
 
 ---
 
-
 En central årsag til, at EU-Kommissionen bruger så mange midler og kræfter på data spaces, er et voksende behov for i fællesskab at løse de mange udfordringer, vi står overfor – klima- og biodiversitetskrise, energikrise, grøn omstilling, fødevaresikkerhed, pandemier, folkesundhed, flygtningestrømme, kriminalitet, ressourceknaphed etc. Der er en stor tro på, at øget digitalisering og datadeling er et vigtigt middel til at løse mange af de store udfordringer, vi står overfor.
 
 Dette beskrives ofte som 'the twin transition' – en omstilling, hvor den grønne dagsorden og digitalisering går hånd i hånd. Nogle af de programmer, der lægges særlig vægt på i denne tvillingetransition, er [Green Deal-programmet](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1576150542719&uri=COM%3A2019%3A640%3AFIN), [Fit for 55-programmerne](https://www.consilium.europa.eu/da/policies/green-deal/fit-for-55-the-eu-plan-for-a-green-transition/), [REPowerEU](https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal/repowereu-affordable-secure-and-sustainable-energy-europe_en)

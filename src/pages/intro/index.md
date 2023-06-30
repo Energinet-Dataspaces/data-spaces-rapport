@@ -5,7 +5,7 @@ description: Introduktion, formål med rapporten, proces og begreber.
 
 _A data space is defined as a decentralized infrastructure for trustworthy data sharing and exchange in data ecosystems based on commonly agreed principles. (Open DEI i Design Principles for Data Spaces)._
 
-Data spaces er et relativt nyt begreb, som bedst kan forstås som et sæt spilleregler for datadelingsøkosystemer. Gennem fælles spilleregler og teknologier skal data spaces gøre det lettere og sikrere at dele data. Data spaces italesættes som en ny og alternativ datadelingsinfrastruktur. Modsat en mere klassisk, centraliseret cloud-infrastruktur, hvor al data samles i databaser eller data lakes, ønsker man, at data og databehandlingsservices i højere grad ligger decentralt hos et økosystem af aktører, men at frisættelsen og udvekslingen af data forøges og forenkles gennem fælles spilleregler, standarder og gennem teknologiske byggeklodser for interoperabilitet. 
+Data spaces er et relativt nyt begreb, som bedst kan forstås som et sæt spilleregler for datadelingsøkosystemer. Gennem fælles spilleregler og teknologier skal data spaces gøre det lettere og sikrere at dele data. Data spaces italesættes som en ny og alternativ datadelingsinfrastruktur. Modsat en mere klassisk, centraliseret cloud-infrastruktur, hvor al data samles i databaser eller data lakes, ønsker man, at data og databehandlingsservices i højere grad ligger decentralt hos et økosystem af aktører, men at frisættelsen og udvekslingen af data forøges og forenkles gennem fælles spilleregler, standarder og gennem teknologiske byggeklodser for interoperabilitet.
 
 > Data spaces skal sikre decentral datadeling, datasuverænitet, distribueret digital troværdighed og mere transparens i datadeling og dataøkosystemer.
 

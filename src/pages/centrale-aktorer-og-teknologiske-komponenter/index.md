@@ -46,13 +46,13 @@ _Figur 14: IDS Roles and Interactions (source: IDSA, IDS RAM 3.0)._
 Denne referencearkitekturmodel revideres i øjeblikket, og udviklingen af version 4.0 kan findes på [GitHub](https://github.com/International-Data-Spaces-Association/IDS-RAM_4_0).
 
 Ligeledes deles flere [IDSA-ressourcer i open source](https://github.com/International-Data-Spaces-Association/idsa), især:
+
 - [International Data Spaces Global](https://github.com/International-Data-Spaces-Association/IDS-G) (IDS-G).
 - Et ['reference test bed'](https://github.com/International-Data-Spaces-Association/IDS-testbed): Verificerer, om en komponent implementerer IDS-specifikationerne.
 - Et ['minimum viable data space'](https://github.com/International-Data-Spaces-Association/IDS-testbed/blob/master/minimum-viable-data-space/MVDS.md): En kombination af IDSA-komponenter til at skabe et data space med tilstrækkelige funktioner til sikker og suveræn dataudveksling som specificeret af IDSA.
 - [IDSA Graduation Scheme v1.0](https://github.com/International-Data-Spaces-Association/idsa/tree/main/graduation_scheme), hvor IDSA har samlet sandbox-projekter og kode fra andre aktører og beskriver dem ud fra deres gradueringskriterier for kompatibilitet med ISD-standarder og retningslinjer.
 
 IDSA har i nov. 2022 udgivet en [rapport](https://internationaldataspaces.org/wp-content/uploads/dlm_uploads/IDSA-Data-Connector-Report-November-2022.pdf) med en oversigt over, hvilke data space connectors der findes, hvad de forskellige connectors kan, og om de er open source. Derudover har IDSA et stort [bibliotek med rapporter](https://internationaldataspaces.org/publications/position-papers/) om f.eks. datasuverænitet, businessmodeller, governance, certificering, GDPR, implementering af den Europæiske Datastrategi samt blockchain og data spaces.
-
 
 ## Gaia-X
 
@@ -85,9 +85,8 @@ En anden vigtig funktion for Gaia-X er at hjælpe deres medlemmer med at komme m
 **Gaia-X er organiseret i tre organer:**
 
 1. **Gaia-X European Association for Data and Cloud AISBL** udgør organisationens kerne. Deres hovedopgave er at udvikle den overordnede vision og det regulatoriske rammeværk. De skal sørge for, at de nødvendige værktøjer bliver stillet til rådighed i open source. Under associationen er der etableret tre komiteer: The Policy Rules Committee, The Technical Committee og The Data Space Business Committee.
-
-1. **Gaia-X Hubs** er nationale organisationer, der skal stå for at samle og mobilisere lokale aktører i de givne lande, og de skal stå for at skabe lokale initiativer. For at blive godkendt som en national hub skal man have en skriftlig opbakning fra den givne stats regering. Der findes lige nu 17 nationale hubs og syv kandidater. De nationale hubs virker som vigtige organer, da det er gennem disse, at virksomheder og organisationer kan engagere sig i de store EU-ansøgninger og derved komme med i projekter, hvor der udvikles konkret teknologi og use-cases. Se mere om et muligt dansk Gaia-X Hub i kapitel 6.
-2. **Gaia-X Open Source Community** er et fællesskab af alle de aktører, der arbejder på forskellige projekter relateret til Gaia-X-arbejde; det kan være deltagere i diverse EU-støttede data space-projekter. Her kan man dele resultater og udveksle erfaringer. Det er primært gennem Open Source Community, at der udvikles mest konkret software. Alle kan deltage gratis i Open Source Community, hvor der afholdes fælles online events hver torsdag. Den tekniske open source-udvikling og fremskridt er delvist offentligt tilgængelig her:
+2. **Gaia-X Hubs** er nationale organisationer, der skal stå for at samle og mobilisere lokale aktører i de givne lande, og de skal stå for at skabe lokale initiativer. For at blive godkendt som en national hub skal man have en skriftlig opbakning fra den givne stats regering. Der findes lige nu 17 nationale hubs og syv kandidater. De nationale hubs virker som vigtige organer, da det er gennem disse, at virksomheder og organisationer kan engagere sig i de store EU-ansøgninger og derved komme med i projekter, hvor der udvikles konkret teknologi og use-cases. Se mere om et muligt dansk Gaia-X Hub i kapitel 6.
+3. **Gaia-X Open Source Community** er et fællesskab af alle de aktører, der arbejder på forskellige projekter relateret til Gaia-X-arbejde; det kan være deltagere i diverse EU-støttede data space-projekter. Her kan man dele resultater og udveksle erfaringer. Det er primært gennem Open Source Community, at der udvikles mest konkret software. Alle kan deltage gratis i Open Source Community, hvor der afholdes fælles online events hver torsdag. Den tekniske open source-udvikling og fremskridt er delvist offentligt tilgængelig her:
 
 [https://gitlab.com/gaia-x](https://gitlab.com/gaia-x)
 
@@ -122,7 +121,6 @@ I et diagram vises det mere specifikt, hvordan de forskellige elementer fra IDS-
 
 Desuden har Gaia-X og IDSA sammen med FIWARE Foundation (se afsnit 4.4) og Big Data Value Association (BDVA) skabt [Data Space Business Alliance](https://data-spaces-business-alliance.eu/) (DSBA). Formålet er at accelerere udbredelsen af data spaces og at samle de centrale aktører og forsøge at tale med én stemme, når man engagerer industrien i data spaces-dagsordenen. Tilsammen repræsenterer de fire aktører bag DSBA over 1000 førende virksomheder.
 
-
 ## Fraunhofer Institute
 
 Fraunhofer Institute er en uvildig tysk forskningsorganisation (kan sammenlignes med de danske GTS-Institutter (Godkendt Teknologisk Service)), som har været instrumentel i udviklingen af data spaces i Europa gennem flere projekter.
@@ -135,8 +133,7 @@ Et særligt vigtigt projekt, hvor Fraunhofer er meget aktiv, er udviklingen af [
 
 Derudover arbejder Fraunhofer på en række andre arkitekturelementer såsom 'Identity Provider', 'Clearing House', 'Information Model', 'App Store', 'Meta Data Broker' og 'Usage Control'. Se [her](https://www.dataspaces.fraunhofer.de/en/software.html) en oversigt over komponenterne samt links til, hvilke personer man skal kontakte, hvis man vil vide mere om teknologierne. Disse Fraunhofer-komponenter dækker de nøgleelementer, der er nødvendige for et data space.
 
-
-## FIWARE Foundation 
+## FIWARE Foundation
 
 FIWARE Foundation er baseret på flere generationer af europæiske projekter og har over 130 organisationer samt 300 individuelle medlemmer. De førende medlemmer har siden 2021 været Atos, Engineering, Red Hat, Nec, Telefonica og Trigin Technologies. Deres mission er at styrke udviklingen af smarte applikationer gennem tilgængelige og interoperable softwareplatforme:
 
@@ -150,7 +147,7 @@ Mere specifikt for data spaces har FIWARE i juni 2021 publiceret et whitepaper m
 
 ## OPEN & AGILE SMART CITIES
 
-Open & Agile Smart Cities, oftest omtalt som OASC  er et netværk af byer, der er gået sammen om at udvikle fælles værktøjer for lettere udveksling af data på tværs i byerne og på tværs af byer. 
+Open & Agile Smart Cities, oftest omtalt som OASC  er et netværk af byer, der er gået sammen om at udvikle fælles værktøjer for lettere udveksling af data på tværs i byerne og på tværs af byer.
 We are an international network of cities that partners with local administrations of all sizes and all over the world to assist them in their journey towards digital transformation. We work with our members, partners and independent experts to create sustainable impact for our cities via a minimal technical ground for their digital tools and systems. We call this the Minimal Interoperability Mechanisms or MIMs. We facilitate seamless sharing and re-use of digital, data-driven solutions to avoid vendor lock-in, to reduce innovation costs and improve efficiency, thanks to open standards and APIs (application programming interfaces). (OASC’s hjemmeside) .
 OASC-netværket går forud for data space-agendaen, men grundprincipperne og visionen er den samme, hvor man ønsker at skabe teknologineutrale og åbne standarder for dataud-veksling.  En del af den udvikling der sker i OASC bygger på FIWARE komponenter. Net-værket har udviklet og arbejder særligt med ’Minimal Interoperability Mechanisms (MIMs)’ , som skal understøtte skalering og replikation af eksisterende løsninger:
 
@@ -158,8 +155,7 @@ OASC-netværket går forud for data space-agendaen, men grundprincipperne og vis
 
 _Figur 16: Status over hvilke elementer i MIMs, der er blevet accepteret og anvendt af OASC medlemmer (figuren stammer fra [OASC's hjemmeside](https://oascities.org/minimal-interoperability-mechanisms/))._
 
-MIMs overlapper med flere af de interoperabilitetsprincipper, som data spaces er nødt til at bruge i praksis. Og OASC er drivende partnere i data space projekter omkring smart cities and communities. 
-
+MIMs overlapper med flere af de interoperabilitetsprincipper, som data spaces er nødt til at bruge i praksis. Og OASC er drivende partnere i data space projekter omkring smart cities and communities.
 
 ## iSHARE Foundation
 

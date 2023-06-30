@@ -7,7 +7,6 @@ I dette afsnit beskrives en række af de mest relevante initiativer og organer, 
 
 ---
 
-
 ## OpenDEI
 
 [OPENDEI](https://www.opendei.eu/) er et længerevarende forskningsprojekt støttet af EU-programmet Horizon 2020 (forgænger for Horizon Europe), som startede i 2019 og blev afsluttet i oktober 2022. Projektet er meget centralt i udviklingen af data spaces, fordi de guidende principper og den overordnede referencearkitektur og de overordnede 'building blocks' for data spaces er blevet grundlagt gennem dette projekt (se mere i afsnit 2.3).

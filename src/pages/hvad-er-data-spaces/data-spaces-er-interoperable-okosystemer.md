@@ -40,13 +40,11 @@ Et data space består af decentraliserede data og teknologiske services, som bin
 - Tidsserier af data: f.eks. forudsigelser af fremtidige energipriser
 - Streaming tidsserier af data: f.eks. aktuel luftkvalitet eller energiforbrug/produktion
 
-
 Det er netop her, at et data space adskiller sig fra dataplatforme eller data lakes, der samler en masse data, og det er også anderledes end datakataloger, der viser vej til en masse forskellige samlinger af data. Med andre ord: dataplatforme, data lakes og datakataloger vil alle udgøre dele af et data space, men de er ikke data spaces i sig selv. Det er interoperabiliteten imellem disse, der skaber data spaces.
 
 **"Der er ikke nogen, der ejer et data space, og det er ikke et produkt, man kan købe, hvis blot man har penge nok."**
 
 Som Christoph Martens (head of Adaption IDSA) beskriver det på et webinar fra Data Spaces Support Centre (1. dec. 2022) er der ikke nogen, der ejer et data space, og det er ikke et produkt, man kan købe, hvis blot man har penge nok. Data spaces udgøres af et økosystem af decentrale aktører, teknologier og services, og det er netop de fælles spilleregler, standarder, og governancestrukturen, der får data spaces til at hænge sammen og give værdi.
-
 
 ![Figur 2](/figur2.png)
 
