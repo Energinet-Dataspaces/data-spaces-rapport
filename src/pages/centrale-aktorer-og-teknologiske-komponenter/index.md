@@ -136,7 +136,7 @@ Et særligt vigtigt projekt, hvor Fraunhofer er meget aktiv, er udviklingen af [
 Derudover arbejder Fraunhofer på en række andre arkitekturelementer såsom 'Identity Provider', 'Clearing House', 'Information Model', 'App Store', 'Meta Data Broker' og 'Usage Control'. Se [her](https://www.dataspaces.fraunhofer.de/en/software.html) en oversigt over komponenterne samt links til, hvilke personer man skal kontakte, hvis man vil vide mere om teknologierne. Disse Fraunhofer-komponenter dækker de nøgleelementer, der er nødvendige for et data space.
 
 
-## FIWARE Foundation og Open & Agile Smart Cities
+## FIWARE Foundation 
 
 FIWARE Foundation er baseret på flere generationer af europæiske projekter og har over 130 organisationer samt 300 individuelle medlemmer. De førende medlemmer har siden 2021 været Atos, Engineering, Red Hat, Nec, Telefonica og Trigin Technologies. Deres mission er at styrke udviklingen af smarte applikationer gennem tilgængelige og interoperable softwareplatforme:
 
@@ -146,19 +146,20 @@ FIWARE har deltaget i flere EU-projekter og har derigennem fået skabt et [refer
 
 _The main and only mandatory component of any 'Powered by FIWARE' platform or solution is a FIWARE Context Broker Generic Enabler, supplying a cornerstone function required in any smart solution: the need to manage context information, enabling to perform updates and bring access to context._([FIWAREs hjemmeside](https://www.fiware.org/catalogue/)). Det skal bemærkes, at interoperabilitet kan opnås med lukkede kildeløsninger, så længe de vigtigste softwaregrænseflader og dataformater respekteres. Flere af FIWARE open source-aktiviteterne kan følges på GitHub.
 
-Derudover har FIWARE bidraget til etableringen af standarddataformater, som er indsamlet under ['Smart Data Models'-initiativet](https://smartdatamodels.org/)', hvor der anvendes maskinlæsbare skemaer blandt andet energidata. Disse anvendes især i Smart City-domænet og i særdeleshed i Open & Agile Smart Cities (OASC)-netværket.
+Mere specifikt for data spaces har FIWARE i juni 2021 publiceret et whitepaper med titlen: FIWARE for Data Spaces , der beskriver, hvordan FIWARE-byggeklodser kan bruges til realiseringen af data spaces indenfor flere forskellige domæner. Derudover har FIWARE bi-draget til etableringen af standarddataformater, som er indsamlet under ‘Smart Data Mo-dels’-initiativet’ , hvor der anvendes maskinlæsbare skemaer blandt andet energidata.
 
-FIWARE har også udviklet konceptet 'Minimal Interoperability Mechanisms (MIMs)', som skal understøtte skalering og replikation af eksisterende løsninger:
+## OPEN & AGILE SMART CITIES
 
-_A set of practical capabilities based on open technical specifications that allow cities and communities to replicate and scale solutions globally. ([OASC's hjemmeside](https://oascities.org/minimal-interoperability-mechanisms/))._
-
-MIMs overlapper med flere af de interoperabilitetsprincipper, som data spaces er nødt til at bruge i praksis:
+Open & Agile Smart Cities, oftest omtalt som OASC  er et netværk af byer, der er gået sammen om at udvikle fælles værktøjer for lettere udveksling af data på tværs i byerne og på tværs af byer. 
+We are an international network of cities that partners with local administrations of all sizes and all over the world to assist them in their journey towards digital transformation. We work with our members, partners and independent experts to create sustainable impact for our cities via a minimal technical ground for their digital tools and systems. We call this the Minimal Interoperability Mechanisms or MIMs. We facilitate seamless sharing and re-use of digital, data-driven solutions to avoid vendor lock-in, to reduce innovation costs and improve efficiency, thanks to open standards and APIs (application programming interfaces). (OASC’s hjemmeside) .
+OASC-netværket går forud for data space-agendaen, men grundprincipperne og visionen er den samme, hvor man ønsker at skabe teknologineutrale og åbne standarder for dataud-veksling.  En del af den udvikling der sker i OASC bygger på FIWARE komponenter. Net-værket har udviklet og arbejder særligt med ’Minimal Interoperability Mechanisms (MIMs)’ , som skal understøtte skalering og replikation af eksisterende løsninger:
 
 ![Figur 16](/figur16.png)
 
 _Figur 16: Status over hvilke elementer i MIMs, der er blevet accepteret og anvendt af OASC medlemmer (figuren stammer fra [OASC's hjemmeside](https://oascities.org/minimal-interoperability-mechanisms/))._
 
-Mere specifikt for data spaces har FIWARE i juni 2021 publiceret et whitepaper med titlen: [FIWARE for Data Spaces](https://www.fiware.org/marketing-material/fiware-for-data-spaces/), der beskriver, hvordan FIWARE-byggeklodser kan bruges til realiseringen af data spaces indenfor flere forskellige domæner.
+MIMs overlapper med flere af de interoperabilitetsprincipper, som data spaces er nødt til at bruge i praksis. Og OASC er drivende partnere i data space projekter omkring smart cities and communities. 
+
 
 ## iSHARE Foundation
 
