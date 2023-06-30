@@ -106,7 +106,7 @@ Gaia-X arbejder lige nu på en 'Rulebook', som skal gøre det let at komme i gan
 
 Er man særligt interessereret i udviklingen af teknologiske komponenter og kode, kan vi anbefale at se dette webinar: [Data Spaces Technology Landscape 2023](https://www.sitra.fi/en/events/data-spaces-technology-landscape-2023/), som handler om, hvad der findes og kan bruges nu.
 
-### Gaia-X versus ISDA + Data Space Business Alliance
+### Gaia-X versus IDSA + Data Space Business Alliance
 
 Gaia-X er stadig en ny organisation, og det er vores oplevelse, at der er mange initiativer på vej men ikke så meget færdigt arbejde endnu. Det kan være svært at se, hvad forskellen er mellem IDSA og Gaia-X. Begge organisationer arbejder på at skabe de overordnede linjer og fælles spilleregler for data spaces, og de arbejder begge med at skabe certificeringer, som gør, at andre spillere kan blive kompatible med de fælles retningslinjer givet gennem de to organisationer. Både Gaia-X og ISDA understreger, at det ikke er hos dem, at den konkrete kodeudvikling finder sted, men dette skal nærmere findes i nogle af de forskellige projekter de er med i.
 
