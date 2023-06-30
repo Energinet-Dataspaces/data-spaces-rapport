@@ -26,7 +26,7 @@ _Figur 11: Figuren er taget fra Data Spaces Support Centre's webinar Insights Se
 
 En af de primære opgaver for DSSC er at få samlet og etableret et velfungerende økosystem af de data spaces-projekter og -aktører, der allerede er i gang. Derudover skal DSSC være med til at identificere, konkretisere og udvikle fælles krav til data spaces på tværs af sektorer. DSSC skal endeligt definere designprincipperne for data spaces samt de tekniske og governance-strukturer, der er nødvendige – både for de enkelte sektorer og på tværs af sektorer. DSSC skal identificere de forskellige byggeklodser og assistere EU-Kommissionen i udbud af disse. Sidst men ikke mindst skal centret samle og tilgængeliggøre forskellige eksisterende teknologier, API'er og toolboxes, så nye aktører lettere kan komme i gang med data spaces.
 
-DSSC har i dec. 2022 publiceret en første version af deres [Starter Kit](https://dssc.eu/download/802/?tmstv=1671561146), som vil blive udviklet og publiceret i en endelig form i marts 2023. DSSC har to hotlines, hvor man kan (1) stille overordnede spørgsmål til data spaces og (2) få adgang til teknisk viden og sparring om data spaces gennem et panel af eksperter.
+DSSC har i dec. 2022 publiceret en første version af deres [Starter Kit](https://dssc.eu/download/802/?tmstv=1671561146), som vil blive udviklet og publiceret i en endelig form i marts 2023. DSSC har to hotlines, hvor man kan (1) stille overordnede spørgsmål til data spaces og (2) få adgang til teknisk viden og sparring om data spaces gennem et panel af eksperter. I september 2023 er det planen at DSSC vil udgive et blueprint for data spaces.
 
 ## DG Connect: Simpl Smart Middleware platform
 
